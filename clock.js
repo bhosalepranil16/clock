@@ -1,3 +1,5 @@
+console.log('in chat.js');
+
 {
     var displayTime = function() {
         var date,hrs,min,sec;
